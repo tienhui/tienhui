@@ -1,25 +1,7 @@
-<!--
-  One-file GitHub Profile README
-  Animated text / rendered by capsule-render (external service).
-  No local assets required.
---><div align="center">
-  <img
+<img
     src="https://capsule-render.vercel.app/api?type=venom&height=340&color=0:07111E,50:102F40,100:14142D&text=HI!%20FELLOWS&fontSize=74&fontColor=EAFBFF&fontAlign=50&fontAlignY=46&animation=twinkling&stroke=27E5CF&strokeWidth=1&desc=WELCOME%20TO%20MY%20GITHUB%20UNIVERSE&descSize=20&descAlignY=68"
     alt="HI! FELLOWS — animated GitHub profile greeting"
     width="100%"
   />
 </div>
-<!--
-**tienhui/tienhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
